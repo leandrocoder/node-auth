@@ -1,0 +1,4 @@
+{
+    "host":"mongodb://localhost",
+    "database": "test"
+}
